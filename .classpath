@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/aspose-cells-20.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jwala/Desktop/Prograd/Sprint3/Day5/project-builder-complete-crud/lib/ojdbc6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
